@@ -45,6 +45,7 @@ Ferramentas modernas para desenvolvimento, testes, deploy e monitoramento de apl
 ---
 
 ## 📊 Monitoramento & Logging
+- [Zabbix](https://zabbix.com/) - Monitoramento, coleta e visualização básica de métricas 
 - [Grafana](https://grafana.com/) – Visualização de métricas e dashboards
 - [Prometheus](https://prometheus.io/) – Coleta de métricas em tempo real (usado com Grafana)
 - [Loki](https://grafana.com/oss/loki/) – Logging eficiente, complemento do Prometheus
@@ -62,8 +63,10 @@ Ferramentas modernas para desenvolvimento, testes, deploy e monitoramento de apl
 
 ## 💡 Extras úteis
 - [ngrok](https://ngrok.com/) – Túnel para expor servidores locais via HTTPS
+- [webhook](https://webhook.site/) - Site para testar webhooks
 - [tunnelto](https://tunnelto.dev/) – Alternativa open-source ao ngrok
 - [GlitchTip](https://glitchtip.com/) – Monitoramento de erros alternativo ao Sentry
+- [UpTime Robot](https://uptimerobot.com/) - Monitoramento de sites
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) – Monitoramento de status com UI moderna
 
 ---
