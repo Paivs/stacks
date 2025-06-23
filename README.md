@@ -39,5 +39,4 @@ Este repositório foi criado e mantido por **@Paivs**, com base em experiências
 
 ## 📜 Licença
 
-MIT © [Ano Atual] [Seu Nome]
-
+GPLv3 © 2025 Gustavo Paiva
