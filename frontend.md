@@ -19,6 +19,7 @@
     - [All ShadCN](https://allshadcn.com/)
 - [Origin UI](https://originui.com/)
 - [Re UI](https://reui.io)
+- [Dice UI](https://www.diceui.com/)
 - [Park UI](https://park-ui.com/)
 
 ## 🧩 UI por Pacote
