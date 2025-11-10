@@ -8,13 +8,17 @@
 - [ShadCN UI](https://ui.shadcn.com/)
   - **Temas / Personalização**
     - [StyleGlide](https://www.styleglide.ai/themes)
+    - [ShadcnThemer](https://shadcnthemer.com/)
     - [TweakCN](https://tweakcn.com/editor/theme)
     - [shadcn-prose](https://www.npmjs.com/package/shadcn-prose)
   - **Blocos Prontos**
     - [ShadCN UI Blocks](https://www.shadcn-ui-blocks.com/)
     - [ShadCN Blocks](https://www.shadcnblocks.com/)
+    - [ShadCN Studio](https://shadcnstudio.com/)
+    - [ShadCN IO](https://shadcn.io/)
     - [All ShadCN](https://allshadcn.com/)
 - [Origin UI](https://originui.com/)
+- [Re UI](https://reui.io)
 - [Park UI](https://park-ui.com/)
 
 ## 🧩 UI por Pacote
