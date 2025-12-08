@@ -46,3 +46,6 @@ Registro de tecnologias, sistemas e ferramentas que achei legais e quero guardar
 
 ---
 
+## REPOs interessantes
+- [PUBLIC API](https://github.com/public-apis/public-apis) - Lista de APIs Públicas
+
