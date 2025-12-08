@@ -57,3 +57,9 @@
 - [React Hook Form](https://react-hook-form.com/) – formulários acessíveis e performáticos
 - [Zod](https://zod.dev/) – validação de schema para formulários
 - [React Aria](https://react-spectrum.adobe.com/react-aria/) – acessibilidade avançada
+
+## Referências
+- [Font Brief](https://www.fontbrief.com/fontbrief) - Encontrar a fonte perfeita
+- [ColorMind](http://colormind.io/) - Gerador de paleta de cor
+- [Free Mockup](https://mockups-design.com/free-book-mockups/) - Templates de imagens, sites etc
+- [UI Elements](https://www.web-leb.com/en) - Alguns elementos de UI
